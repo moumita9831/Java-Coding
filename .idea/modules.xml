@@ -7,7 +7,11 @@
       <module fileurl="file://$PROJECT_DIR$/factorial number/factorial number.iml" filepath="$PROJECT_DIR$/factorial number/factorial number.iml" />
       <module fileurl="file://$PROJECT_DIR$/fibonacci series/fibonacci series.iml" filepath="$PROJECT_DIR$/fibonacci series/fibonacci series.iml" />
       <module fileurl="file://$PROJECT_DIR$/largest number/largest number.iml" filepath="$PROJECT_DIR$/largest number/largest number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiplication table/multiplication table.iml" filepath="$PROJECT_DIR$/multiplication table/multiplication table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindrome number/palindrome number.iml" filepath="$PROJECT_DIR$/palindrome number/palindrome number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prime number/prime number.iml" filepath="$PROJECT_DIR$/prime number/prime number.iml" />
       <module fileurl="file://$PROJECT_DIR$/print/print.iml" filepath="$PROJECT_DIR$/print/print.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reverse number/reverse number.iml" filepath="$PROJECT_DIR$/reverse number/reverse number.iml" />
     </modules>
   </component>
 </project>
