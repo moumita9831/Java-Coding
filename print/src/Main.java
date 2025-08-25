@@ -13,7 +13,7 @@ public class Main {
 
        System.out.println("a = " + a + " b = " + b);
 
-       // given 3rd veriable
+       //Swaping given 3rd veriable
        int p = 4;
        int q = 10;
 
