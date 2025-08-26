@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Coding.iml" filepath="$PROJECT_DIR$/.idea/Java-Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPalindrom/SPalindrom.iml" filepath="$PROJECT_DIR$/SPalindrom/SPalindrom.iml" />
       <module fileurl="file://$PROJECT_DIR$/even number/even number.iml" filepath="$PROJECT_DIR$/even number/even number.iml" />
       <module fileurl="file://$PROJECT_DIR$/factorial number/factorial number.iml" filepath="$PROJECT_DIR$/factorial number/factorial number.iml" />
       <module fileurl="file://$PROJECT_DIR$/fibonacci series/fibonacci series.iml" filepath="$PROJECT_DIR$/fibonacci series/fibonacci series.iml" />
@@ -12,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/prime number/prime number.iml" filepath="$PROJECT_DIR$/prime number/prime number.iml" />
       <module fileurl="file://$PROJECT_DIR$/print/print.iml" filepath="$PROJECT_DIR$/print/print.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverse number/reverse number.iml" filepath="$PROJECT_DIR$/reverse number/reverse number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/string reverse/string reverse.iml" filepath="$PROJECT_DIR$/string reverse/string reverse.iml" />
     </modules>
   </component>
 </project>
