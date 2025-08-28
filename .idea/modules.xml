@@ -3,19 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Coding.iml" filepath="$PROJECT_DIR$/.idea/Java-Coding.iml" />
-      <module fileurl="file://$PROJECT_DIR$/SPalindrom/SPalindrom.iml" filepath="$PROJECT_DIR$/SPalindrom/SPalindrom.iml" />
-      <module fileurl="file://$PROJECT_DIR$/consonant/consonant.iml" filepath="$PROJECT_DIR$/consonant/consonant.iml" />
-      <module fileurl="file://$PROJECT_DIR$/duplicate/duplicate.iml" filepath="$PROJECT_DIR$/duplicate/duplicate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array frequency/array frequency.iml" filepath="$PROJECT_DIR$/array frequency/array frequency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array largest number/array largest number.iml" filepath="$PROJECT_DIR$/array largest number/array largest number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array smallest number/array smallest number.iml" filepath="$PROJECT_DIR$/array smallest number/array smallest number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array sort/array sort.iml" filepath="$PROJECT_DIR$/array sort/array sort.iml" />
       <module fileurl="file://$PROJECT_DIR$/even number/even number.iml" filepath="$PROJECT_DIR$/even number/even number.iml" />
       <module fileurl="file://$PROJECT_DIR$/factorial number/factorial number.iml" filepath="$PROJECT_DIR$/factorial number/factorial number.iml" />
       <module fileurl="file://$PROJECT_DIR$/fibonacci series/fibonacci series.iml" filepath="$PROJECT_DIR$/fibonacci series/fibonacci series.iml" />
       <module fileurl="file://$PROJECT_DIR$/largest number/largest number.iml" filepath="$PROJECT_DIR$/largest number/largest number.iml" />
       <module fileurl="file://$PROJECT_DIR$/multiplication table/multiplication table.iml" filepath="$PROJECT_DIR$/multiplication table/multiplication table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/obj student/obj student.iml" filepath="$PROJECT_DIR$/obj student/obj student.iml" />
       <module fileurl="file://$PROJECT_DIR$/occurrence/occurrence.iml" filepath="$PROJECT_DIR$/occurrence/occurrence.iml" />
       <module fileurl="file://$PROJECT_DIR$/palindrome number/palindrome number.iml" filepath="$PROJECT_DIR$/palindrome number/palindrome number.iml" />
       <module fileurl="file://$PROJECT_DIR$/prime number/prime number.iml" filepath="$PROJECT_DIR$/prime number/prime number.iml" />
       <module fileurl="file://$PROJECT_DIR$/print/print.iml" filepath="$PROJECT_DIR$/print/print.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverse number/reverse number.iml" filepath="$PROJECT_DIR$/reverse number/reverse number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/second largest number/second largest number.iml" filepath="$PROJECT_DIR$/second largest number/second largest number.iml" />
       <module fileurl="file://$PROJECT_DIR$/string reverse/string reverse.iml" filepath="$PROJECT_DIR$/string reverse/string reverse.iml" />
       <module fileurl="file://$PROJECT_DIR$/vowel/vowel.iml" filepath="$PROJECT_DIR$/vowel/vowel.iml" />
     </modules>
